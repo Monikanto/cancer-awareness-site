@@ -10,13 +10,7 @@ This project includes:
 - Organized, industry-level folder structure  
 - Ready for deployment on **Vercel**
 
----
 
-## 🚀 Live Demo  
-_Add your deployed Vercel link here:_  
-`https://your-project-name.vercel.app`
-
----
 
 ## 📂 Project Structure
 
@@ -87,17 +81,7 @@ Just open `index.html` in any browser.
 
 ---
 
-## 🚀 Deployment (Vercel)
 
-1. Push your project to GitHub
-2. Visit **[https://vercel.com](https://vercel.com)**
-3. Create a New Project
-4. Import your repo
-5. Click **Deploy**
-
-Site goes live instantly.
-
----
 
 ## 🤝 Contributing
 
